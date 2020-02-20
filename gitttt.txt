@@ -7,13 +7,25 @@ git status
 
 cd estudos/ - achar a pastas " estudos" pq eu nomeei assim
 
-Nesta aula, aprendemos:
+commit : inserir mensagens no repositorio.
+git add nome do arquivo =  adiciona qualquer modificação feita, como se fosse um save
+exemplo: arquivo sem commits, vc adiciona um commit, e para salvar, digita git add
 
-O que são (e para que servem) sistemas de controle de versões e como eles podem ajudar o nosso fluxo de desenvolvimento
-Nos ajudam a manter um histórico de alterações;
-Nos ajudam a ter controle sobre cada alteração no código;
-Nos ajudam para que uma alteração de determinada pessoa não influencie na alteração realizada por outra;
-Etc.
-O que é o Git e como instalá-lo
-Que, com o comando git init, nós conseguimos criar um repositório Git;
-Como analisar o estado do nosso repositório através do comando git status.
+
+
+clear = limpa a tela
+
+git log= historico ou git log --oneline ou git log -p ( bem mais detalhado)
+
+
+
+
+
+git config = configuraçoes
+
+° user.name and user.email
+
+--global = maquina geral
+--local = apenas naquele expecifico repositorio
+
+link para ver mais comandos : https://devhints.io/git-log  \\com o git log
