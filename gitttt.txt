@@ -29,3 +29,5 @@ git config = configuraçoes
 --local = apenas naquele expecifico repositorio
 
 link para ver mais comandos : https://devhints.io/git-log  \\com o git log
+
+°nunca comitar um codigo que nao funciona ou que nao esta finalizado
