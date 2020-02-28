@@ -31,3 +31,13 @@ git config = configuraçoes
 link para ver mais comandos : https://devhints.io/git-log  \\com o git log
 
 °nunca comitar um codigo que nao funciona ou que nao esta finalizado
+
+mkdir servidor = cria um servidor
+
+git init --bare
+
+git push and git pull
+
+git push/pull local(nome) master (brench)
+
+git clone traz informaçoes de um repositorio para o outro
